@@ -15,9 +15,9 @@ souce code:
 7.
 8.
 9. Mendefinisikan class Node sebagai struktur data untuk satu lagu.
-10.  Membuat constructor __init__ dengan parameter judul.
-11.  Menyimpan nilai judul lagu ke atribut self.judul. 
-12.  Menginisialisasi pointer next dengan None. 
+10. Membuat constructor __init__ dengan parameter judul.
+11. Menyimpan nilai judul lagu ke atribut self.judul. 
+12. Menginisialisasi pointer next dengan None. 
 13.
 14.
 15. Mendefinisikan class Playlist sebagai Linked List. 
@@ -55,7 +55,7 @@ souce code:
 47. Menampilkan pesan berhasil dihapus. 
 48. Menghentikan fungsi dengan return. 
 49.
-50. Baris 50 Loop untuk mencari lagu yang ingin dihapus. 
+50. Loop untuk mencari lagu yang ingin dihapus. 
 51. Memindahkan prev ke posisi current. 
 52. Memindahkan current ke node berikutnya. 
 53.
@@ -115,4 +115,4 @@ Output jika pilihan tidak valid
 Output ketika program selesai
 <img width="402" height="285" alt="image" src="https://github.com/user-attachments/assets/de827dbb-cefa-4fa3-9402-d0a4e28035a0" />
 
-Link Youtube: 
+Link Youtube: https://youtu.be/6xUcmRx7QMM
