@@ -99,3 +99,20 @@ souce code:
 91.
 92. Mengecek apakah file dijalankan langsung. 
 93. Menjalankan fungsi main().
+
+Output menambahkan lagu (1)
+<img width="596" height="578" alt="image" src="https://github.com/user-attachments/assets/6751c277-ea8d-40d4-b90e-7fb5d17146ed" />
+
+Output menampilkan playlist (2)
+<img width="400" height="325" alt="image" src="https://github.com/user-attachments/assets/86de2073-5322-4b35-b0ee-8bc01e119331" />
+
+Output menghapus lagu (3)
+<img width="853" height="323" alt="image" src="https://github.com/user-attachments/assets/d5f68030-56c8-481a-b9a4-e53476756e0a" />
+
+Output jika pilihan tidak valid
+<img width="471" height="289" alt="image" src="https://github.com/user-attachments/assets/0640a84c-a7c8-4b62-acf3-8dbd47cf1a7c" />
+
+Output ketika program selesai
+<img width="402" height="285" alt="image" src="https://github.com/user-attachments/assets/de827dbb-cefa-4fa3-9402-d0a4e28035a0" />
+
+Link Youtube: 
