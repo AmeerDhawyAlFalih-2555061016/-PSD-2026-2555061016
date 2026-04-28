@@ -115,4 +115,4 @@ Output jika pilihan tidak valid
 Output ketika program selesai
 <img width="402" height="285" alt="image" src="https://github.com/user-attachments/assets/de827dbb-cefa-4fa3-9402-d0a4e28035a0" />
 
-Link Youtube: https://youtu.be/6xUcmRx7QMM
+Link Youtube: https://youtu.be/3F9oV2iFsmc
