@@ -9,7 +9,7 @@ source code:
 
 penjelasan:
 1. Mendefinisikan fungsi bubble_sort(arr, n) untuk mengurutkan data.
-2. Memberikan komentar bahwa bagian ini adalah proses Bubble Sort (ascending).
+2. #Proses Ascending
 3. Membuat perulangan luar (for i) untuk jumlah putaran sorting.
 4. Membuat perulangan dalam (for j) untuk membandingkan elemen bersebelahan.
 5. Mengecek apakah elemen kiri lebih besar dari elemen kanan.
@@ -41,7 +41,7 @@ penjelasan:
 31. Menampilkan teks sebelum data ditampilkan.
 32. Menampilkan isi list sebelum diurutkan.
 33. 
-34. Memberikan komentar bahwa akan dilakukan proses sorting.
+34. #Proses Sorting
 35. Memanggil fungsi bubble_sort() untuk mengurutkan data.
 36. 
 37. Menampilkan teks hasil setelah diurutkan.
