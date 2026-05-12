@@ -96,3 +96,7 @@ Output 4: Opsi keluar pada menu
 
 
 Link Youtube: https://youtu.be/EiUI21oc5oc
+
+
+^^^^^
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-12 at 23 14 47" src="https://github.com/user-attachments/assets/c3bae28c-33f7-476a-af05-0ff6d45ef61d" />
