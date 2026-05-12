@@ -94,4 +94,5 @@ Output 4: Opsi keluar pada menu
 <img width="568" height="146" alt="image" src="https://github.com/user-attachments/assets/30744154-0c8a-451b-a0b2-25fc3761c29f" />
 
 
-Link Youtube: 
+
+Link Youtube: https://youtu.be/3u-krHVv8-c
