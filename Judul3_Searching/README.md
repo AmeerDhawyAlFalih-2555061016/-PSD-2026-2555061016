@@ -73,20 +73,25 @@ Penjelasan:
 63. Mengecek apakah file dijalankan langsung sebagai program utama.
 64. Memanggil fungsi main().
 
+
 Output 1: Jika input pengguna tidak ada dalam opsi menu
 
 <img width="359" height="148" alt="image" src="https://github.com/user-attachments/assets/456bf4a7-8fd0-4ad1-b034-874f32302c2b" />
+
 
 Output 2: Ketika level yang diinput tidak ada pada list
 
 <img width="445" height="178" alt="image" src="https://github.com/user-attachments/assets/0f12a48e-e9e7-40dd-988d-2d8a3975d896" />
 
+
 Output 3: Ketika level yang diinput ada pada list serta deskripsi setiap kategori
 
 <img width="678" height="837" alt="image" src="https://github.com/user-attachments/assets/b691d249-be87-445a-9ab5-c1b170000c9f" />
 
+
 Output 4: Opsi keluar pada menu
 
 <img width="568" height="146" alt="image" src="https://github.com/user-attachments/assets/30744154-0c8a-451b-a0b2-25fc3761c29f" />
+
 
 Link Youtube: 
