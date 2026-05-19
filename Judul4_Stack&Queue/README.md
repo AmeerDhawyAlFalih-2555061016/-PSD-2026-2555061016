@@ -1,11 +1,13 @@
 Tugas Akhir Judul 4
 
-Judul Program: Portal Teleportasi Anomali Journey
+Judul Program: Anomali Journey
 
-Portal Teleportasi dalam Anomali Adventure adalah game dengan sistem perjalanan antar dimensi yang memungkinkan pemain berpindah ke berbagai dunia misterius melalui portal. Setiap portal yang dimasuki akan tercatat dalam riwayat perjalanan sehingga pemain dapat kembali ke portal sebelumnya menggunakan konsep struktur data Stack dengan prinsip LIFO (Last In First Out).
+Anomali Journey adalah game dengan sistem perjalanan antar dimensi yang memungkinkan pemain berpindah ke berbagai dunia misterius melalui portal. Setiap portal yang dimasuki akan tercatat dalam riwayat perjalanan sehingga pemain dapat kembali ke portal sebelumnya menggunakan konsep struktur data Stack dengan prinsip LIFO (Last In First Out).
 
 source code:
-<img width="1294" height="3446" alt="codesnap Tugas_Akhir_Judul4" src="https://github.com/user-attachments/assets/146871a4-1d78-4a5e-858a-39a57c3490f3" />
+
+<img width="1294" height="3446" alt="codesnap Tugas_Akhir_Judul4" src="https://github.com/user-attachments/assets/1762be64-f151-4138-818c-20982d8dc119" />
+
 
 
 
@@ -95,4 +97,24 @@ Penjelasan:
 83. Menjalankan function main().
 
 
-Output:
+Output Masuk Portal (push):
+
+<img width="479" height="509" alt="image" src="https://github.com/user-attachments/assets/fcde00bf-4086-4c25-96d7-5a16a1df76ab" />
+
+Output Kembali dari Portal (pop):
+
+<img width="469" height="235" alt="image" src="https://github.com/user-attachments/assets/377327fe-3fa5-4f32-aeba-028547845f65" />
+
+Output Lihat Portal Terakhir (peek):
+
+<img width="445" height="232" alt="image" src="https://github.com/user-attachments/assets/a5247ef3-1d3e-4dac-a550-64a3676fe0ce" />
+
+Output Tampilkan Riwayat Portal:
+
+<img width="433" height="327" alt="image" src="https://github.com/user-attachments/assets/0a93ba21-e5eb-4404-8abc-3aa0b2bf60c7" />
+
+Output Program Selesai:
+
+<img width="430" height="233" alt="image" src="https://github.com/user-attachments/assets/dea61364-d218-4fc1-9550-87ecb294245d" />
+
+Link Youtube: https://youtu.be/zxJUWV8RTwc
