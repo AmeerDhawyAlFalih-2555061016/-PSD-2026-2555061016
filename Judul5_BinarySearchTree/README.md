@@ -2,11 +2,12 @@ Tugas Akhir Judul 5
 
 Judul Program: Titan Classification
 
-
+Titan Classification adalah program yang digunakan untuk menyimpan dan mengelola data Titan berdasarkan kode kekuatannya menggunakan struktur data Binary Search Tree (BST). Program ini dapat menambahkan, mencari, dan menampilkan data Titan secara terurut sehingga pengelolaan data menjadi lebih cepat dan terstruktur.
 
 Souce code:
 
 <img width="1556" height="6220" alt="codesnap Tugas_Akhir_Judul5" src="https://github.com/user-attachments/assets/2cbc0bef-1025-45cb-87c9-bd52e7be990a" />
+
 penjelasan:
 1. Membuat class Node untuk menyimpan data node pada Binary Search Tree.
 2. Membuat constructor __init__ pada class Node.
@@ -164,9 +165,28 @@ penjelasan:
 154. Baris kosong.
 156. Baris akhir program.
 
+Output Insert (1):
 
+<img width="605" height="681" alt="image" src="https://github.com/user-attachments/assets/a519c24e-0ea7-4752-9259-1f0225b5ef10" />
 
+Output Search (2):
 
+<img width="496" height="339" alt="image" src="https://github.com/user-attachments/assets/7e32d66b-045f-411c-9b44-a616861b0f4a" />
 
+Output Inorder (3):
+
+<img width="630" height="314" alt="image" src="https://github.com/user-attachments/assets/f88e8e29-d6b4-4cad-9cc5-e53a0d8c921e" />
+
+Output findmin & findmax (4):
+
+<img width="525" height="632" alt="image" src="https://github.com/user-attachments/assets/149ce723-7005-4a1c-b2e2-436bebadda23" />
+
+Output Count (5):
+
+<img width="429" height="332" alt="image" src="https://github.com/user-attachments/assets/ef4a37ae-dce5-4da1-a7b2-9e9de48f7444" />
+
+Output Sum (6):
+
+<img width="493" height="334" alt="image" src="https://github.com/user-attachments/assets/dbd4e9dc-31ce-45cc-a761-013c35736428" />
 
 Link Youtube: https://youtu.be/633-sw7bPEc
